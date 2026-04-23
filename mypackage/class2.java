@@ -6,6 +6,9 @@ public class class2 {
 
 		int a=2;
 		b=3;c=0;
+		c=a+b;
+		
+		//new code
 	}
 
 }
